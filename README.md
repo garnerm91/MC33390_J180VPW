@@ -5,7 +5,8 @@ This module uses the MC33390 Class B Serial Transceiver from Freescale. This IC 
 It's the PDF labeled MC33390.PDF
 
 ## Gerbers
-REVA.zip has them in it. By the way it has PCBWAY in the silkscreen because they sponsored the project.
+REVA.zip has them in it. This project is sponsored by PCBWay! Whether you need prototype PCBs or full assembly, PCBWay delivers high quality at a great price. Check them out at https://www.pcbway.com/
+
 
 ## Code
 This project works with it: https://github.com/garnerm91/Arduino_J1850VPW
