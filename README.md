@@ -9,3 +9,9 @@ REVA.zip has them in it. By the way it has PCBWAY in the silkscreen because they
 
 ## Code
 This project works with it: https://github.com/garnerm91/Arduino_J1850VPW
+
+## Where to find the IC?
+GM used these a lot. GM marked the MC33390 as "56585":
+* 03-07 GM Instrument Clusters
+* 2004 and newer Trailblazer Clusters
+* Some GM Radios
